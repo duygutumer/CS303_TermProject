@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/User/Desktop/CS303/TERMProject/duygu_tumer_TERMPROJECT/term/tel_tb_isim_beh.exe" -prj "C:/Users/User/Desktop/CS303/TERMProject/duygu_tumer_TERMPROJECT/term/tel_tb_beh.prj" "work.tel_tb" "work.glbl" 
